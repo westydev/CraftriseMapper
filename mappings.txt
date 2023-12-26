@@ -1,0 +1,18 @@
+net/minecraft/client/Minecraft -> com/craftrise/client/S
+net/minecraft/entity/Entity -> com/craftrise/m9
+net/minecraft/network/NetworkManager -> cr/obfuscates/a
+net/minecraft/network/Packet -> com/craftrise/lv
+net/minecraft/network/EnumConnectionState -> cr/obfuscates/o
+net/minecraft/network/play/server/S08PacketPlayerPosLook$EnumFlags -> com/craftrise/gy$a
+net/minecraft/network/play/server/S08PacketPlayerPosLook -> com/craftrise/gy
+net/minecraft/network/play/client/C19PacketResourcePackStatus$Action -> com/craftrise/iV$a
+net/minecraft/network/play/client/C19PacketResourcePackStatus -> com/craftrise/iV
+net/minecraft/network/play/client/C02PacketUseEntity$Action -> com/craftrise/on$a
+net/minecraft/network/play/client/C02PacketUseEntity -> com/craftrise/on
+net/minecraft/network/play/INetHandlerPlayServer -> com/craftrise/id
+net/minecraft/network/INetHandler -> com/craftrise/pk
+net/minecraft/network/play/INetHandlerPlayClient -> com/craftrise/ln
+net/minecraft/client/network/NetHandlerPlayClient -> com/craftrise/client/c9
+net/minecraft/world/WorldServer -> com/craftrise/i8
+net/minecraft/world/World -> com/craftrise/iE
+net/minecraft/client/network/NetHandlerPlayClient.addToSendQueue(net.minecraft.network.Packet packet) -> com/craftrise/client/c9.a(com.craftrise.lv packet, long long1)
